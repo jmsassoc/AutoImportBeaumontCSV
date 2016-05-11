@@ -1,0 +1,13 @@
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\bin\Debug\AutoImportBeaumontCSV.exe.config
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\bin\Debug\AutoImportBeaumontCSV.exe
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\bin\Debug\AutoImportBeaumontCSV.pdb
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\bin\Debug\AutoImportBeaumontCSV.xml
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\AutoImportBeaumontCSV.FrmMain.resources
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\AutoImportBeaumontCSV.Resources.resources
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\GenerateResource.read.1.tlog
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\GenerateResource.write.1.tlog
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\AutoImportBeaumontCSV.exe
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\AutoImportBeaumontCSV.xml
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\AutoImportBeaumontCSV.pdb
+W:\独立工具11\Beaumont\AutoImportBeaumontCSV\AutoImportBeaumontCSV\obj\x86\Debug\AutoImportBeaumontCSV.vbproj.ResolveComReference.cache

@@ -1,0 +1,29 @@
+J:\Temp\Beaumont CSV source file directory not found!	2016-3-7 14:49:13
+J:\Temp\Beaumont CSV source file directory not found!	2016-3-7 14:55:30
+J:\Temp\Beaumont CSV source file directory not found!	2016-3-7 14:55:40
+J:\Temp\Beaumont CSV source file directory not found!	2016-3-7 14:57:37
+J:\Temp\Beaumont\Oakwood160225.csv CSV source file Error!	2016-3-7 15:29:44
+J:\Temp\Beaumont\Beaumont20160303.csv CSV source file Error!	2016-3-7 16:52:04
+J:\Temp\Beaumont\Beaumont20160303.csv CSV source file Error!	2016-3-7 17:09:52
+J:\Temp\Beaumont\Oakwood20160225A.csv CSV source file Error!违反了 PRIMARY KEY 约束“PK_TblEmployees”。不能在对象“dbo.TblEmployees”中插入重复键。重复键值为 (010005, Oakwood2)。
+语句已终止。	2016-3-7 17:33:18
+J:\Temp\Beaumont\Beaumont160225A.csv CSV source file Error!违反了 PRIMARY KEY 约束“PK_TblEmployees”。不能在对象“dbo.TblEmployees”中插入重复键。重复键值为 (010007, Beaumon)。
+语句已终止。	2016-3-7 17:44:14
+J:\Temp\Beaumont\Oakwood20160225A.csv CSV source file Error!违反了 PRIMARY KEY 约束“PK_TblEmployees”。不能在对象“dbo.TblEmployees”中插入重复键。重复键值为 (010005, Oakwood20)。
+语句已终止。	2016-3-7 17:44:14
+J:\Temp\Beaumont\Beaumont20160303.csv CSV source file Error!名为“IndexGUID”的列已属于此 DataTable。	2016-3-8 11:27:03
+J:\Temp\Beaumont\Beaumont20160303.csv CSV source file Error!列“IndexGUIDAPP”不允许 nulls。	2016-3-8 11:35:15
+J:\Temp\Beaumont\Beaumont20160303.csv CSV source file Error!列要求有效的 DataType。	2016-3-8 11:45:28
+J:\Temp\Beaumont\Oakwood160225.csv CSV source file Error!列要求有效的 DataType。	2016-3-8 11:45:29
+J:\Temp\Beaumont\Oakwood160225.csv CSV source file Error!列“EmployeeID”被约束为是唯一的。值“010171”已存在。	2016-3-8 12:19:58
+J:\Temp\Beaumont\Oakwood160225.csv CSV source file Error!列“EmployeeID”被约束为是唯一的。值“010171”已存在。	2016-3-8 12:24:39
+J:\Temp\Beaumont\healthcoach20160323.csv CSV source file Error!多步操作产生错误。请检查每一步的状态值。	2016-3-23 16:47:14
+J:\Temp\Beaumont\Beaumont20160303.csv CSV source file Error!列“FirstName”不属于表 TblEmployees。	2016-3-23 16:47:24
+J:\Temp\Beaumont\healthcoach20160323.csv CSV source file Error!多步操作产生错误。请检查每一步的状态值。	2016-3-23 16:47:24
+J:\Temp\Beaumont\Oakwood160225.csv CSV source file Error!列“FirstName”不属于表 TblEmployees。	2016-3-23 16:47:25
+J:\Temp\Beaumont\Beaumont20160303.csv CSV source file Error!列“FirstName”不属于表 TblEmployees。	2016-3-23 16:49:01
+J:\Temp\Beaumont\healthcoach20160323.csv CSV source file Error!多步操作产生错误。请检查每一步的状态值。	2016-3-23 16:49:02
+J:\Temp\Beaumont\Oakwood160225.csv CSV source file Error!列“FirstName”不属于表 TblEmployees。	2016-3-23 16:49:04
+J:\Temp\Beaumont\Beaumont20160303.csv CSV source file Error!列“FirstName”不属于表 TblEmployees。	2016-3-23 16:49:11
+J:\Temp\Beaumont\healthcoach20160323.csv CSV source file Error!多步操作产生错误。请检查每一步的状态值。	2016-3-23 16:49:11
+J:\Temp\Beaumont\Oakwood160225.csv CSV source file Error!列“FirstName”不属于表 TblEmployees。	2016-3-23 16:49:12
